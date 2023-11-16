@@ -66,7 +66,7 @@ export default function Navbar() {
                 className="fixed inset-0 bg-red-500 space-y-10 flex flex-col justify-center"
               >
                 <motion.div
-                  transition={{
+                  variants={{
                     open: {
                       y: "0%",
                       opacity: 1,
