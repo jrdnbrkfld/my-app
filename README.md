@@ -15,3 +15,5 @@ npm install framer-motion
 ```
 
 Then you are able to copy and paste the code from Navbar.js into your own project. If you are using this for your own projects, you must credit this repository.
+
+Visit https://jrdnav.vercel.app/ to see it in action.
